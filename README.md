@@ -1,2 +1,0 @@
-# new-project
-OpenCV Python
