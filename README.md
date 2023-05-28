@@ -1,7 +1,7 @@
 # Learning OpenCV
 
 
-OpenCV Python
+OpenCV Python.
 
 
 # Description
