@@ -2,7 +2,7 @@
        
    # Learning OpenCV .  
    
-     
+        
 OpenCV Python. 
     
    
